@@ -7,10 +7,3 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 
-
-# Gems
-plugins:
-  - jekyll-paginate
-
-
-remote_theme: poole/lanyon
