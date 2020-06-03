@@ -1,1 +1,16 @@
+# Setup
+title:               Apmox
+tagline:             'A Github Page'
+description:         ''
+url:                 http://apmox.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+
 remote_theme: poole/lanyon
